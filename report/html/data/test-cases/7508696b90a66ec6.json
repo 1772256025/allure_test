@@ -1,0 +1,60 @@
+{
+  "uid" : "7508696b90a66ec6",
+  "name" : "TestAllure.test_func01",
+  "fullName" : "test_allure.TestAllure.test_func01",
+  "historyId" : "fa7d45dd53f3bc07d63d2bca969fc745",
+  "time" : {
+    "start" : 1574737354420,
+    "stop" : 1574737354438,
+    "duration" : 18
+  },
+  "description" : "测试方法",
+  "descriptionHtml" : "<p>测试方法</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-VGP6F4O0"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "blocker"
+  }, {
+    "name" : "thread",
+    "value" : "41180-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "test_allure"
+  }, {
+    "name" : "testClass",
+    "value" : "test_allure"
+  }, {
+    "name" : "testMethod",
+    "value" : "TestAllure.test_func01"
+  }, {
+    "name" : "package",
+    "value" : "test_allure"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "blocker",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7508696b90a66ec6.json",
+  "parameterValues" : [ ]
+}

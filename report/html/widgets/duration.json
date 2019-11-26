@@ -1,0 +1,31 @@
+[ {
+  "uid" : "29090406aadf9db5",
+  "name" : "TestAllure.test_func02",
+  "time" : {
+    "start" : 1574737354479,
+    "stop" : 1574737354495,
+    "duration" : 16
+  },
+  "status" : "passed",
+  "severity" : "trivial"
+}, {
+  "uid" : "7508696b90a66ec6",
+  "name" : "TestAllure.test_func01",
+  "time" : {
+    "start" : 1574737354420,
+    "stop" : 1574737354438,
+    "duration" : 18
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "7aa5fa353105873b",
+  "name" : "TestAllure.test_func",
+  "time" : {
+    "start" : 1574737354325,
+    "stop" : 1574737354389,
+    "duration" : 64
+  },
+  "status" : "passed",
+  "severity" : "minor"
+} ]

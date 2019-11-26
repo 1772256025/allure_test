@@ -1,0 +1,54 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1574737354325" stop="1574737354495">
+  <name>test_allure</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1574737354325" status="passed" stop="1574737354389">
+      <description>测试方法</description>
+      <name>TestAllure.test_func</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="minor"/>
+        <label name="thread" value="41180-MainThread"/>
+        <label name="host" value="LAPTOP-VGP6F4O0"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps>
+        <step start="1574737354358" status="passed" stop="1574737354389">
+          <name>测试方法01</name>
+          <title>测试方法01</title>
+          <attachments>
+            <attachment source="e4728ab1-7e8d-4553-9433-433d2903853e-attachment.txt" title="登录" type="text/plain"/>
+          </attachments>
+          <steps/>
+        </step>
+      </steps>
+    </test-case>
+    <test-case start="1574737354420" status="passed" stop="1574737354438">
+      <description>测试方法</description>
+      <name>TestAllure.test_func01</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="blocker"/>
+        <label name="thread" value="41180-MainThread"/>
+        <label name="host" value="LAPTOP-VGP6F4O0"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1574737354479" status="passed" stop="1574737354495">
+      <description>测试方法</description>
+      <name>TestAllure.test_func02</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="trivial"/>
+        <label name="thread" value="41180-MainThread"/>
+        <label name="host" value="LAPTOP-VGP6F4O0"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

@@ -1,0 +1,4 @@
+"Status","Name","Duration in ms","Description"
+"passed","test_allure.TestAllure.test_func02","16","测试方法"
+"passed","test_allure.TestAllure.test_func01","18","测试方法"
+"passed","test_allure.TestAllure.test_func","64","测试方法"
